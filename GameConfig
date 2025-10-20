@@ -1,1 +1,13 @@
-{ "latest_version":"1.0.0" }
+"latest_version": "1.2.0",
+"minimum_supported_version": "1.0.0",
+"release_date": "2025-10-20",
+"is_mandatory": false,
+"download_url": "https://play.google.com/store/apps/details?id=com.VonLab.Meriavale",
+"update_notes": [
+  "Yeni seviyeler eklendi (Level 10-15)",
+  "Performans iyileştirmeleri yapıldı",
+  "Karakter seçim ekranı yenilendi",
+  "Ses efektleri güncellendi",
+  "Küçük bug'lar düzeltildi"
+  ]
+}
