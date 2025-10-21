@@ -5,6 +5,9 @@
   "release_date": "2025-10-22",
   "download_url": "https://play.google.com/store/apps/details?id=com.VonLab.Meriavale",
   "update_notes": [
-    "Header:There is no update note."
+    "Header:dynamic weather system",
+    "Body:•The weather is sunny and rainy at random times.",
+    "Body:•The soil dries faster when it is sunny.",
+    "Body:•In rainy weather, the soil increases to 100% water content and the water does not decrease unless the weather changes."
   ]
 }
