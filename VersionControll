@@ -1,12 +1,12 @@
 {
   "force_update": "true",
-  "latest_version": "Beta 1.4.0",
-  "minimum_supported_version": "Beta 1.4.0",
-  "release_date": "2025-10-22",
+  "latest_version": "Beta 1.4.1",
+  "minimum_supported_version": "Beta 1.4.1",
+  "release_date": "22/22/2025",
   "download_url": "https://play.google.com/store/apps/details?id=com.VonLab.Meriavale",
   "update_notes": [
-    "Header:solar light system",
-    "Body:Fixed the issue of clock data not being recorded.",
-    "Body:Fixed account time data not being saved."
+    "Header:Time system",
+    "Body:<color=green>Fixed</color> issue where hour data was not being recorded.",
+    "Body:<color=green>Fixed</color> issue where time data was not being saved to PlayGames."
   ]
 }
