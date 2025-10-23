@@ -1,7 +1,7 @@
 Version=1.4.0
 
 //DayTime Scripts
-timespeed=float=1;
+timespeed=float=15;
 //GameManager
 HungerDecreaseRate=float=30;
 starvingDuration=float=20;
