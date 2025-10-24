@@ -1,6 +1,13 @@
 Version=0
 UpdateName=string=Big Update Part2;
 
+//Redeem Code
+Code0_ID=string=NEWPLAYER;
+Code0_Item0_Name=string=WheatSeed;
+Code0_Item0_Count=int=10;
+Code0_Item1_Name=string=CarrotSeed;
+Code0_Item1_Count=int=10;
+
 //DayTime Scripts
 timespeed=float=1;
 
