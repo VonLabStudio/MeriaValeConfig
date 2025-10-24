@@ -1,12 +1,15 @@
 {
   "force_update": "true",
-  "latest_version": "Beta 1.4.1",
-  "minimum_supported_version": "Beta 1.4.1",
-  "release_date": "22/10/2025",
+  "latest_version": "Beta 1.4.2",
+  "minimum_supported_version": "Beta 1.4.2",
+  "release_date": "23/10/2025",
   "download_url": "https://play.google.com/store/apps/details?id=com.VonLab.Meriavale",
   "update_notes": [
-    "Header:Time system",
-    "Body:<color=green>Fixed</color> issue where hour data was not being recorded.",
-    "Body:<color=green>Fixed</color> issue where time data was not being saved to PlayGames."
+    "Header:Dynamic Update System",
+    "Body:Added an online value update system (some settings can now be changed remotely).",
+    "Body:Performance and stability improvements have been made.",
+    "Body:Minor bug fixes have been made.",
+    "Header:support",
+    "Body:If you have any problems with the game or any balance issues, please contact us. <color=blue>vonlabstudio@gmail.com</color>"
   ]
 }
