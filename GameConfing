@@ -58,3 +58,177 @@ Seed6_WaterUseRate=float=0.9;
 Seed6_GrowthRate=float=3;
 Seed6_WaintForSecounds=float=0.08;
 
+//ItemRecept
+//Mill
+Mill0_Name=string=Flour;
+Mill0_Count=int=100;
+Mill0_CountType=string=Qr;
+Mill0_Time=float=60;
+Mill0_Mat0_Name=string=Wheat;
+Mill0_Mat0_Count=int=35;
+Mill0_Mat0_CountType=string=x;
+//Furnace
+Furnace0_Name=string=Bread;
+Furnace0_Count=int=1;
+Furnace0_CountType=string=x;
+Furnace0_Time=float=40;
+Furnace0_Mat0_Name=string=Dough;
+Furnace0_Mat0_Count=int=200;
+Furnace0_Mat0_CountType=string=Qr;
+//Table
+Table0_Name=string=Dough;
+Table0_Count=int=200;
+Table0_CountType=string=Qr;
+Table0_Time=float=20;
+Table0_Mat0_Name=string=Flour;
+Table0_Mat0_Count=int=100;
+Table0_Mat0_CountType=string=Qr;
+Table0_Mat1_Name=string=Water;
+Table0_Mat1_Count=int=5;
+Table0_Mat1_CountType=string=L;
+Table0_Mat2_Name=string=Knife;
+Table0_Mat2_Count=int=5;
+Table0_Mat2_CountType=string=:Health;
+
+Table1_Name=string=Bread Slice;
+Table1_Count=int=5;
+Table1_CountType=string=x;
+Table1_Time=float=4;
+Table1_Mat0_Name=string=Bread;
+Table1_Mat0_Count=int=1;
+Table1_Mat0_CountType=string=x;
+Table1_Mat1_Name=string=Knife;
+Table1_Mat1_Count=int=5;
+Table1_Mat1_CountType=string=:Health;
+
+Table2_Name=string=BlackBerry Bread Slice;
+Table2_Count=int=1;
+Table2_CountType=string=x;
+Table2_Time=float=5;
+Table2_Mat0_Name=string=Bread Slice;
+Table2_Mat0_Count=int=1;
+Table2_Mat0_CountType=string=x;
+Table2_Mat1_Name=string=BlackBerry;
+Table2_Mat1_Count=int=3;
+Table2_Mat1_CountType=string=x;
+Table2_Mat2_Name=string=Knife;
+Table2_Mat2_Count=int=1;
+Table2_Mat2_CountType=string=:Health;
+
+Table3_Name=string=RaspBerry Bread Slice;
+Table3_Count=int=1;
+Table3_CountType=string=x;
+Table3_Time=float=5;
+Table3_Mat0_Name=string=Bread Slice;
+Table3_Mat0_Count=int=1;
+Table3_Mat0_CountType=string=x;
+Table3_Mat1_Name=string=RaspBerry;
+Table3_Mat1_Count=int=3;
+Table3_Mat1_CountType=string=x;
+Table3_Mat2_Name=string=Knife;
+Table3_Mat2_Count=int=1;
+Table3_Mat2_CountType=string=:Health;
+
+Table4_Name=string=BlueBerry Bread Slice;
+Table4_Count=int=1;
+Table4_CountType=string=x;
+Table4_Time=float=5;
+Table4_Mat0_Name=string=Bread Slice;
+Table4_Mat0_Count=int=1;
+Table4_Mat0_CountType=string=x;
+Table4_Mat1_Name=string=BlueBerry;
+Table4_Mat1_Count=int=3;
+Table4_Mat1_CountType=string=x;
+Table4_Mat2_Name=string=Knife;
+Table4_Mat2_Count=int=1;
+Table4_Mat2_CountType=string=:Health;
+
+Table5_Name=string=Black MulBerry Bread Slice;
+Table5_Count=int=1;
+Table5_CountType=string=x;
+Table5_Time=float=5;
+Table5_Mat0_Name=string=Bread Slice;
+Table5_Mat0_Count=int=1;
+Table5_Mat0_CountType=string=x;
+Table5_Mat1_Name=string=Black MulBerry;
+Table5_Mat1_Count=int=3;
+Table5_Mat1_CountType=string=x;
+Table5_Mat2_Name=string=Knife;
+Table5_Mat2_Count=int=1;
+Table5_Mat2_CountType=string=:Health;
+
+Table6_Name=string=Apple Juice;
+Table6_Count=int=1;
+Table6_CountType=string=x;
+Table6_Time=float=5;
+Table6_Mat0_Name=string=Apple;
+Table6_Mat0_Count=int=1;
+Table6_Mat0_CountType=string=x;
+Table6_Mat1_Name=string=Water;
+Table6_Mat1_Count=int=1;
+Table6_Mat1_CountType=string=L;
+Table6_Mat2_Name=string=Cup;
+Table6_Mat2_Count=int=1;
+Table6_Mat2_CountType=string=x;
+
+Table7_Name=string=Pear Juice;
+Table7_Count=int=1;
+Table7_CountType=string=x;
+Table7_Time=float=5;
+Table7_Mat0_Name=string=Pear;
+Table7_Mat0_Count=int=1;
+Table7_Mat0_CountType=string=x;
+Table7_Mat1_Name=string=Water;
+Table7_Mat1_Count=int=1;
+Table7_Mat1_CountType=string=L;
+Table7_Mat2_Name=string=Cup;
+Table7_Mat2_Count=int=1;
+Table7_Mat2_CountType=string=x;
+
+Table8_Name=string=Carrot Juice;
+Table8_Count=int=1;
+Table8_CountType=string=x;
+Table8_Time=float=5;
+Table8_Mat0_Name=string=Carrot;
+Table8_Mat0_Count=int=1;
+Table8_Mat0_CountType=string=x;
+Table8_Mat1_Name=string=Water;
+Table8_Mat1_Count=int=1;
+Table8_Mat1_CountType=string=L;
+Table8_Mat2_Name=string=Cup;
+Table8_Mat2_Count=int=1;
+Table8_Mat2_CountType=string=x;
+
+Table9_Name=string=Cabbage Leaves;
+Table9_Count=int=6;
+Table9_CountType=string=x;
+Table9_Time=float=14;
+Table9_Mat0_Name=string=Cabbage;
+Table9_Mat0_Count=int=1;
+Table9_Mat0_CountType=string=x;
+Table9_Mat1_Name=string=Knife;
+Table9_Mat1_Count=int=5;
+Table9_Mat1_CountType=string=:Health;
+
+Table10_Name=string=Tomato Slices;
+Table10_Count=int=4;
+Table10_CountType=string=x;
+Table10_Time=float=8;
+Table10_Mat0_Name=string=Tomato;
+Table10_Mat0_Count=int=1;
+Table10_Mat0_CountType=string=x;
+Table10_Mat1_Name=string=Knife;
+Table10_Mat1_Count=int=5;
+Table10_Mat1_CountType=string=:Health;
+
+Table11_Name=string=Cucumber Slices;
+Table11_Count=int=8;
+Table11_CountType=string=x;
+Table11_Time=float=8;
+Table11_Mat0_Name=string=Cucumber;
+Table11_Mat0_Count=int=1;
+Table11_Mat0_CountType=string=x;
+Table11_Mat1_Name=string=Knife;
+Table11_Mat1_Count=int=5;
+Table11_Mat1_CountType=string=:Health;
+
