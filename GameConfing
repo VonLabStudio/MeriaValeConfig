@@ -1,4 +1,4 @@
-Version=2
+Version=3
 UpdateName=string=Dynamic Update System;
 
 //Redeem Code
@@ -9,11 +9,11 @@ Code0_Item1_Name=string=CarrotSeed;
 Code0_Item1_Count=int=10;
 
 //DayTime Scripts
-timespeed=float=1;
+timespeed=float=1,5;
 
 //GameManager
-HungerDecreaseRate=float=30;
-starvingDuration=float=20;
+HungerDecreaseRate=float=20;
+starvingDuration=float=10;
 
 //FarmLand Manager
 Seed0_Name=string=Null;
