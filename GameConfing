@@ -8,6 +8,7 @@ Code0_Item0_Name=string=WheatSeed;
 Code0_Item0_Count=int=10;
 Code0_Item1_Name=string=CarrotSeed;
 Code0_Item1_Count=int=10;
+Code1_ID=string=StrangerThinks;
 
 //DayTime Scripts
 timespeed=float=1;
