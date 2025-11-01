@@ -1,5 +1,6 @@
 Version=4
 UpdateName=string=Big Update Part2;
+LampString=ASK;
 
 //Redeem Code
 Code0_ID=string=NEWPLAYER;
